@@ -1,5 +1,5 @@
 ---
-title: I'm back with rants, raves, changes...
+title: I'm back with rants, raves, changes.
 date: 2017-01-10
 ---
 
@@ -8,7 +8,7 @@ date: 2017-01-10
 I've decided to come out of hiding, or I should say finally have time in my life to focus
 on thing that I care about.
 
-A lot has changed, I left Chicago about 3 months ago to work for [Procore Technologies](https://www.procore.com) whilst living in Santa Barbara, CA... try and make me move back!
+A lot has changed, I left Chicago about 3 months ago to work for [Procore Technologies](https://www.procore.com) whilst living in Santa Barbara, CA. Try and make me move back!
 
 ### Currently Playing With
 
